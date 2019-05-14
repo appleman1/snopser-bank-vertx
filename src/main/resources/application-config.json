@@ -1,0 +1,4 @@
+{
+  "jdbc-db-url": "jdbc:hsqldb:mem:test?shutdown=true",
+  "jdbc-db-driver": "org.hsqldb.jdbcDriver"
+}
